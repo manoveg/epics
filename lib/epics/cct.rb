@@ -15,7 +15,7 @@ class Epics::CCT < Epics::GenericUploadRequest
         },
         "OrderDetails" => {
           "OrderType" => "CCT",
-          "OrderAttribute" => "OZHNN",
+          "OrderAttribute" => "DZHNN",
           "StandardOrderParams/" => ""
         },
         "BankPubKeyDigests" => {
